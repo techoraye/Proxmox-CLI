@@ -95,7 +95,7 @@ curl -O https://raw.githubusercontent.com/techoraye/Proxmox-CLI/refs/heads/main/
 
 2. Make it executable:
 ```bash
-chmod +x proxmox-manager.sh
+chmod +x Proxmox-CLI.sh
 ```
 
 3. Run the script:
