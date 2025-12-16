@@ -127,7 +127,7 @@ export PVE_HOST="192.168.1.100"
 export PVE_USER="root@pam"
 export PVE_PASS="your-password"
 
-./proxmox-manager.sh
+./Proxmox-CLI.sh
 ```
 
 ### Example Workflows
